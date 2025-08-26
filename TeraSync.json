@@ -1,0 +1,23 @@
+{
+  "Author": "kirin-xiv",
+  "Name": "Tera Sync",
+  "InternalName": "TeraSync",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Share your appearance, mods, and glamour configurations with friends. Synchronize your Penumbra and Glamourer state seamlessly.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kirin-xiv/TeraSync-Release",
+  "Tags": [
+    "customization",
+    "penumbra",
+    "glamourer",
+    "synchronization"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/kirin-xiv/TeraSync-Release/main/TeraSync.png",
+  "Punchline": "Sync with friends - share your style.",
+  "AcceptsFeedback": true
+}
