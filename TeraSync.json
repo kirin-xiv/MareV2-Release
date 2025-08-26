@@ -2,7 +2,7 @@
   "Author": "kirin-xiv",
   "Name": "Tera Sync",
   "InternalName": "TeraSync",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "Share your appearance, mods, and glamour configurations with friends. Synchronize your Penumbra and Glamourer state seamlessly.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/kirin-xiv/TeraSync-Release",
